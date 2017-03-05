@@ -1,0 +1,35 @@
+{
+  "name": "WeatherApp",
+  "short_name": "Weather App",
+  "icons": [{
+        "src": "image/icon.png",
+        "type": "image/png",
+        "sizes": "128x128"
+      }, {
+        "src": "image/icon.png",
+        "type": "image/png",
+        "sizes": "152x152"
+      }, {
+        "src": "image/icon.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      }, {
+        "src": "image/icon3.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "image/icon3.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      },
+      {
+        "src": "image/icon.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }],
+"start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#41F5DB",  
+  "theme_color": "#2196F3"
+}
